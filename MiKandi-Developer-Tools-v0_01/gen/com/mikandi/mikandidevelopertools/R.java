@@ -1147,6 +1147,7 @@ containing a value of this type.
         public static final int action_settings=0x7f0a000f;
         public static final int app_name=0x7f0a000d;
         public static final int hello_world=0x7f0a000e;
+        public static final int true_button=0x7f0a0010;
     }
     public static final class style {
         /** 
